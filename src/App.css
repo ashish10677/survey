@@ -1,7 +1,10 @@
-.App {
+.main {
   text-align: center;
 }
-
+.container {
+  width: 650px;
+  margin: auto;
+}
 .App-header {
   background-color: #222;
   height: 50px;
@@ -23,4 +26,9 @@ input[type="text"] {
   height: 30px;
   border-radius: 5px;
   border: #ccc solid 1px;
+}
+
+form div {
+  margin-bottom: 15px;
+  line-height: 2.2em;
 }
