@@ -4,7 +4,7 @@ var firebase = require('firebase');
 var uuid = require('uuid');
 
 var config = {
-  apiKey: "AIzaSyCTMCLTWjtgeeNZgSLWMctaO_PEjoPvwPw",
+  apiKey: "xxxxxxxxxxxxxxxxxxxxxxxxxx",
   authDomain: "simple-survey-69e60.firebaseapp.com",
   databaseURL: "https://simple-survey-69e60.firebaseio.com",
   projectId: "simple-survey-69e60",
